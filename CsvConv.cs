@@ -8,7 +8,7 @@ using System.Web;
 
 namespace CsvT
 {
-    class CsvConv
+    public class CsvConv
     {
         public static DataTable ReadFile()
         {
